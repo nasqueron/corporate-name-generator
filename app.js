@@ -53,7 +53,7 @@ var corp = {
         "integrated"
     ],
 
-    // Determins how often suffixes shold be used
+    // Determines how often suffixes should be used
     suffixesWeight: 0.4,
 
     // Determines how often use three words
